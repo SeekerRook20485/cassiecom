@@ -1,0 +1,23 @@
+1. READ A CARD
+
+The only thing you need to do is give the program the card you want
+ in the following format:
+       hnf
+Where 'h' is the house 'n' is the number and 'f' is the face of the card
+
+acceptable values:
+h : m = major arcana, c = cups, p = pentacles, w = wands, s = swords
+n : number of the card, p = page, j = knight,  q = queen, k = king
+f : u = upright, r = reversed
+
+example: c1u --> Ace of Cups upright
+         sjr --> Knight of Swords reversed
+         m0u --> The Fool upright
+
+2. SELECT SPREAD FORMAT
+
+if you want to change spread format type 'select' and then select love/l for love or normal/n for normal spread or s/short for short description.
+The format is set to short by default.
+
+3. EXIT THE APPLICATION
+to exit type 'exit'.

@@ -1,0 +1,479 @@
+c1u
+Ace of Cups Upright
+
+If you are single the Ace of Cups is a great omen as it represents new relationships or romance.
+Now is a great time to meet new people!
+The Ace of Cups represents the beginning of a relationship when everything is new and exciting.
+If you are in a relationship, the Ace of Cups can signify an opportunity for renewal in the relationship
+where you and your partner can let go of past wrongs and open your hearts to each other bringing joy,
+harmony and contentment.
+The Ace of Cups can also be a sign of upcoming celebrations such baby showers, engagements or weddings.
+It is also a signifier of pregnancy and fertility.​
+000
+c1r
+ace of cups reversed
+000
+c2u
+2 of clubs upright
+000
+c2r
+2 of clubs reversed
+000
+c3u
+3 of clubs upright
+000
+c3r
+3 of clubs reversed
+000
+c4u
+4 of clubs upright
+000
+c4r
+4 of clubs reversed
+000
+c5u
+5 of clubs upright
+000
+c5r
+000
+5 of clubs reversed
+c6u
+000
+6 of clubs upright
+c6r
+6 of clubs reversed
+000
+c7r
+7 of clubs reversed
+000
+c7u
+7 of clubs upright
+000
+c8r
+8 of clubs reversed
+000
+c8u
+8 of clubs upright
+000
+c9r
+9 of clubs reversed
+000
+c9u
+9 of clubs upright
+000
+c10r
+10 of clubs reversed
+000
+c10u
+10 of clubs upright
+000
+cpu
+page of clubs upright
+000
+cpr
+page of clubs reversed
+000
+cju
+knight of clubs upright
+000
+cjr
+knight of clubs reversed
+000
+cqu
+queen of clubs upright
+000
+cqr
+queen of clubs reversed
+000
+cku
+king of clubs upright
+000
+ckr
+king of clubs reversed
+000
+w1u
+ace of wands upright
+000
+w1r
+ace of wands reversed
+000
+w2u
+2 of wands upright
+000
+w2r
+2 of wands reversed
+000
+w3u
+3 of wands upright
+000
+w3r
+3 of wands reversed
+000
+w4u
+4 of wands upright
+000
+w4r
+4 of wands reversed
+000
+w5u
+5 of wands upright
+000
+w5r
+5 of wands reversed
+000
+w6u
+6 of wands upright
+000
+w6r
+6 of wands reversed
+000
+w7r
+7 of wands reversed
+000
+w7u
+7 of wands upright
+000
+w8r
+8 of wands reversed
+000
+w8u
+8 of wands upright
+000
+w9r
+9 of wands reversed
+000
+w9u
+9 of wands upright
+000
+w10r
+10 of wands reversed
+000
+w10u
+10 of wands upright
+000
+wpu
+page of wands upright
+000
+wpr
+page of wands reversed
+000
+wju
+knight of wands upright
+000
+wjr
+knight of wands reversed
+000
+wqu
+queen of wands upright
+000
+wqr
+queen of wands reversed
+000
+wku
+king of wands upright
+000
+wkr
+king of wands reversed
+000
+p1u
+ace of pentacles upright
+000
+p1r
+ace of pentacles reversed
+000
+p2u
+2 of pentacles upright
+000
+p2r
+2 of pentacles reversed
+000
+p3u
+3 of pentacles upright
+000
+p3r
+3 of pentacles reversed
+000
+p4u
+4 of pentacles upright
+000
+p4r
+4 of pentacles reversed
+000
+p5u
+5 of pentacles upright
+000
+p5r
+5 of pentacles reversed
+000
+p6u
+6 of pentacles upright
+000
+p6r
+6 of pentacles reversed
+000
+p7r
+7 of pentacles reversed
+000
+p7u
+7 of pentacles upright
+000
+p8r
+8 of pentacles reversed
+000
+p8u
+8 of pentacles upright
+000
+p9r
+9 of pentacles reversed
+000
+p9u
+9 of pentacles upright
+000
+p10r
+10 of pentacles reversed
+000
+p10u
+10 of pentacles upright
+000
+ppu
+page of pentacles upright
+000
+ppr
+page of pentacles reversed
+000
+pju
+knight of pentacles upright
+000
+pjr
+knight of pentacles reversed
+000
+pqu
+queen of pentacles upright
+000
+pqr
+queen of pentacles reversed
+000
+pku
+king of pentacles upright
+000
+pkr
+king of pentacles reversed
+000
+s1u
+ace of swords upright
+000
+s1r
+ace of swords reversed
+000
+s2u
+2 of swords upright
+000
+s2r
+2 of swords reversed
+000
+s3u
+3 of swords upright
+000
+s3r
+3 of swords reversed
+000
+s4u
+4 of swords upright
+000
+s4r
+4 of swords reversed
+000
+s5u
+5 of swords upright
+000
+s5r
+6 of swords reversed
+000
+s6u
+6 of swords upright
+000
+s6r
+6 of swords reversed
+000
+s7r
+7 of swords reversed
+000
+s7u
+7 of swords upright
+000
+s8r
+8 of swords reversed
+000
+s8u
+8 of swords upright
+000
+s9r
+9 of swords reversed
+000
+s9u
+9 of swords upright
+000
+s10r
+10 of swords reversed
+000
+s10u 
+10 of swords upright
+000
+spu
+page of swords upright
+000
+spr
+page of swords reversed
+000
+sju
+knight of swords upright
+000
+sjr
+knight of swords reversed
+000
+squ
+queen of swords upright
+000
+sqr
+queen of swords reversed
+000
+sku
+king of swords upright
+000
+skr
+king of swords reversed
+000
+m0u
+The Fool upright
+000
+m0r
+The Fool reversed
+000
+m1u
+The Magician upright
+000
+m1r
+The Magician reversed
+000
+m2u
+000
+The High Priestess upright
+m2r
+000
+The High Priestess reversed
+000
+m3u
+The Empress upright
+000
+m3r
+The Empress reversed
+000
+m4u
+The Emperor upright
+000
+m4r
+The Emperor reversed
+000
+m5u
+The Hierophant upright
+000
+m5r
+The Hierophant reversed
+000
+m6u
+The Lovers upright
+000
+m6r
+The Lovers reversed
+000
+m7r
+The Chariot reversed
+000
+m7u
+The Chariot upright
+000
+m8r
+Strength reversed 
+000
+m8u
+Strength upright
+000
+m9r
+The Hermit reversed
+000
+m9u
+The Hermit upright
+000
+m10r
+Wheel of Fortune reversed
+000
+m10u
+Wheel of Fortune upright
+000
+m11u
+Justice upright
+000
+m11r
+Justice reversed 
+000
+m12u
+The Hanged Man upright
+000
+m12r
+The Hanged Man reversed
+000
+m13u
+Death upright
+000
+m13r
+Death reversed
+000
+m14u
+Temperance upright
+000
+m14r
+Temperance reversed
+000
+m15u
+The Devil upright
+000
+m15r
+The Devil reversed
+000
+m16u
+The Tower upright
+000
+m16r
+The Tower reversed
+000
+m17u
+The Star upright
+000
+m17r
+The Star reversed
+000
+m18u
+The Moon upright
+000
+m18r
+The Moon reversed
+000
+m19u
+The Sun upright
+000
+m19r
+The Sun reversed
+000
+m20u
+Judgement upright
+000
+m20r
+Judgement reversed
+000
+m21u
+The World upright
+000
+m21r
+The World reversed
+000
+end
