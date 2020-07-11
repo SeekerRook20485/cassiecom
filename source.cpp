@@ -166,6 +166,7 @@ int main (){
     cout << title;
     cout << "     Welcome to CassieCom !!!\n\n";
     card();
+    cout << "\n\n NOTE : Details for Normal & Love Spreads are not yet available but you can still explore the related commands. ";
     while (true){
     string key;
     cout << "\n\nType Command (help/select/exit/card name):\n>> ";
