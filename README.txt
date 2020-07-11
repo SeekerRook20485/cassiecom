@@ -2,7 +2,7 @@
 
 Welcome to Cassiecom !!!
 
-Thank you for using this Program
+Thank you for using this app
 Here are some useful tips :
 1. To run the app open the cassiecom.exe file.
 2. The App is Portable but you should copy the whole folder for it to work in other computers.
