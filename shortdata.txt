@@ -654,280 +654,857 @@ financial loss, losing something valuable, reckless behaviour,
 lack of control, gambling, theft
 000
 p5u
-5 of pentacles upright
+Five of Pentacles 
+
+Temporary financial hardship, negative change in circumstances,
+feeling left out in the cold, financial loss, recession,
+feeling the world is against you, adversity, struggle,
+hardship, bad luck, homelessness, poverty, unemployment,
+financial ruin, bankruptcy, outcast, alienation, illness,
+divorce, breakups, scandal, disgrace
 000
 p5r
-5 of pentacles reversed
+Five of Pentacles Reversed
+
+Improvement in finances/luck, end of hardship,
+positive change, becoming financially secure,
+recovery from losses, making progress,
+overcoming adversity, paying off debts,
+forgiveness, health improvement/ treatment,
+being welcomed/accepted, becoming employed,
+improving/letting go of relationships, 
 000
 p6u
-6 of pentacles upright
+Six of Pentacles Upright
+
+Gifts, generosity, charity, donations, money,
+community, assistance, support, employment,
+sharing, kindness, wealth, prosperity, power,
+authority, control, investors, giving/receiving,
+gratitude, being valued, being well paid,
+rewards for hard work, fairness, equality
 000
 p6r
-6 of pentacles reversed
-000
-p7r
-7 of pentacles reversed
+Six of Pentacles Reversed
+
+Lack/abuse of generosity, abuse of power or position,
+gifts with strings attached, subservience, inequality,
+lack of charity, scams, fake charity, extortion, 
+unemployment, lack of investment, underpaid,
+undervalued, bad debts, poor financial decisions,
+greed, meanness, gullibility, kiss-ass
 000
 p7u
-7 of pentacles upright
+Seven of Pentacles Upright
+
+Things coming to fruition, hard work paying off,
+harvest, rewards, profits, results, pay-outs,
+manifestation of ideas or goals, inheritance,
+cultivation, growing, gestation, nurturing,
+perseverance, patience, planning, reviewing,
+taking stock, questioning, crossroads,
+approaching retirement, finishing what you started
 000
-p8r
-8 of pentacles reversed
+p7r
+Seven of Pentacles Reversed
+
+Bad business/financial management,
+not finishing what you started, laziness,
+aimlessness, procrastination, not putting effort in,
+cash flow problems, waste, lack of growth, setbacks,
+delay, impatience, frustration, postponed retirement,
+lack of reward, workaholic, not taking stock,
+lack of reflection, change of plans
 000
 p8u
-8 of pentacles upright
+Eight of Pentacles Upright
+
+New job, self-employment, building business, trade,
+reputation, craftsmanship, quality, master, expertise,
+hard work, commitment, dedication, concentration,
+success, accomplishment, ambition, confidence,
+financial security, results, rewards,
+achieving goals, attention to detail,
+productivity, scholarship, qualifications
 000
-p9r
-9 of pentacles reversed
+p8r
+Eight of Pentacles Reversed
+
+Repetitive or boring job, failure,
+lack of effort/confidence/commitment/ambition/focus,
+shoddy workmanship, poor quality, rush job, bad reputation,
+carelessness, poor concentration/productivity, mediocrity,
+financial insecurity, scams, overspending, debt, laziness, 
+under-qualified, workaholic, materialistic, mean, 
+dead-end career, biting off more than you can chew.
 000
 p9u
-9 of pentacles upright
+Nine of Pentacles Upright
+
+Independence, success, financial stability/security,
+profit, prosperity, wealth, property, abundance,
+rewards through hard work, collecting on investments,
+thriving business, status, freedom, wisdom, maturity,
+indulgence, contentment, self-discipline/ control/ reliance,
+sophistication, elegance, grace, beauty, pregnancy, birth,
+menopause, mature or independent woman, retirement, taking it easy
 000
-p10r
-10 of pentacles reversed
+p9r
+Nine of Pentacles Reversed
+
+Lack of independence/stability/security,
+reckless spending, shady investments, 
+working too hard, not earning your wealth,
+gold-digger, marrying for money/ status, 
+rostitution, dishonesty, deceit, theft,
+property damage, con artist, scams, cheap,
+superficial, no style, failure, lack of self-discipline,
+lack of sophistication/elegance, over-indulgence,
+miscarriage, termination, reproductive issues.
 000
 p10u
-10 of pentacles upright
+Ten of Pentacles Upright
+
+Unexpected financial windfall, lump sum, will,
+deeds, trust funds, inheritance, solid foundations,
+privilege, inherited issues, ancestry,
+family home/ business/ responsibilities/ values/ support/ issues/ riches,
+old money, affluence, business empire,
+domestic bliss, contracts, pensions, 
+long term financial security/ stability, 
+being conventional/traditional, settling down, pre-nuptials,
+marriage, marrying into money,  
+000
+p10r
+Ten of Pentacles Reversed
+
+Disputed inheritance/ being excluded from/not leaving a will,
+unexpected changes, financial disaster, bankruptcy,
+huge losses/debts, collapse of an empire,
+illegal activity, money laundering,
+rocky foundations, losing everything,
+family feuds/ burdens/ neglect, domestic disputes,
+fighting over money, divorce, “new money”,
+faking wealth/affluence, instability, breaking traditions,
+unconventional, marrying for money, cold-heartedness
 000
 ppu
-page of pentacles upright
+Page of Pentacles Upright
+
+Good news in earthly matters, solid beginnings, 
+setting goals, developing a plan, laying the foundations, 
+taking advantage of opportunities, jumping in, consistency, 
+excellent prospects, excelling in or seeking education/ training, 
+ambitions, decide what you want and go for it, 
+grounded young person, loyal, faithful, dependable, 
+healthy lifestyle, Tarot/ divination, earth magic, nature, 
 000
 ppr
-page of pentacles reversed
+Page of Pentacles Reversed
+
+Bad news in earthly matters, lack of goals, 
+lacking common sense, irresponsible, lazy, 
+foolish, immature, sullen, rebellious, 
+no groundwork, no follow through, 
+unworkable plan, underachiever, procrastination, 
+not taking advantage of opportunities, poor prospects, 
+failing/dropping out, learning difficulties, frustration, 
+disloyalty, unfaithfulness, unhealthy lifestyle, 
+obsession with Tarot/ divination, dark magic,
 000
 pju
-knight of pentacles upright
+Knight of Pentacles Upright
+
+Patient, practical, loyal, responsible, 
+persistence, protective, defensive, conservative, 
+stubborn, ambitious, hard worker, profit, 
+finishing what you start, 
+working with nature working for what you want, 
+making your dreams/wishes come true through persistence, 
+environmentally conscious, getting back to nature
 000
 pjr
-knight of pentacles reversed
+Knight of Pentacles Reversed
+
+Impatient, lazy, apathy, lack of common sense, 
+unstable, unskilled, unreliable, disloyal, 
+irresponsible, weak, gambler, loser, 
+unconscientious, deadbeat, broken promises, 
+not finishing what you start, boring, obstinate, 
+ultra-conservative, pessimistic, 
+obsessed with money/materialism/looks, workaholic, 
+animal abuse
 000
 pqu
-queen of pentacles upright
+Queen of Pentacles Upright
+
+Mature grounded female, businesswoman, 
+high social status/social butterfly, generous, 
+loyal, prosperity, success, financially independent, 
+wealth, luxury, homemaker, the finer things in life, 
+down to earth, organised, sensible, practical, 
+no-nonsense, kind, welcoming, nurturing, witch, 
+healer, wonderful mother,
 000
 pqr
-queen of pentacles reversed
+Queen of Pentacles Reversed
+
+Ungrounded, overly ambitious, social climber, 
+mean-spirited, shallow, sociopath, jealous, 
+possessive, wicked, out of control, under/overweight/ unhealthy, 
+disloyal, cheater, prostitution, disorganised, 
+impractical, chaos, poverty, pretentious, boring, 
+neglect, manipulation, dark magic, bad mother, 
+dangerous, stuck in a rut,
 000
 pku
-king of pentacles upright
+King of Pentacles Upright 
+
+Mature grounded male, successful, wealthy businessman, 
+bettering yourself, not a risk-taker, empire, 
+thriving, high status, stability, security, 
+enterprising, provider, cautious, careful, 
+loyal, faithful, dependable, supporting, 
+encouraging, conservative, principled, 
+reaching goals, hard work will pay off, 
+seeing things through to the end 
 000
 pkr
-king of pentacles reversed
+King of Pentacles Reversed
+
+Ungrounded male, unsuccessful businessman, 
+corruption, extortion, instability, poor judgement, 
+gambler, collapse of an empire, bankruptcy, underqualified, 
+broke, slob, materialistic, greedy, hasty decisions, 
+disloyal, unfaithful,  unsupportive, discouraging, 
+obstinate, cold, uncaring, ruthless, losing your grip on things  
 000
 s1u
-ace of swords upright
+Ace of Swords Upright
+
+New ideas, new plans, intellectual ability, victory, 
+success, mental clarity, clear thinking, breakthroughs, 
+ability to concentrate, communication, realising the truth, 
+vision, force, focus, intensity, stimulating people and environments, 
+new beginnings, new projects, justice, assertiveness, 
+authority, making the correct decision 
 000
 s1r
-ace of swords reversed
+Ace of Swords Reversed
+
+Lack of ideas, intellectual inability, failure, 
+hostility, arguments, insults, destruction, confusion, 
+misinformation, memory loss, inability to concentrate, 
+lack of communication, creative blocks, frustration,
+injustice, hate triumphing over love,  lack of assertiveness, 
+making the wrong decision, lack of stimulation
 000
 s2u
-2 of swords upright
+Two of Swords Upright
+
+Stalemate, truce, sitting on the fence, cross roads, 
+difficult decisions, painful choices, stressful decisions, 
+opposition, facing your fears, being torn between two relationships, 
+divided loyalty, being caught in the middle, denial, 
+blindness, inability to see the truth, avoidance, blocked emotions 
 000
 s2r
-2 of swords reversed
+Two of Swords Reversed
+
+Indecision, delays, postponements, seeing the truth, 
+lies being exposed, overwhelming fears/worry/ anxiety/ stress, 
+information overload, overly cautious, emotional turmoil, 
+mental turmoil, holding onto anxiety or resentment, 
+emotional detachment, emotional coldness, being emotionally guarded 
 000
 s3u
-3 of swords upright
+Three of Swords Upright
+
+Heartbreak, betrayal, loneliness, removal, absence, 
+division, depression, separation, sadness, heartache, 
+unhappiness, upheaval, grief, sorrow, upset, disorder, 
+confusion, alienation, loss, distraction, ill-health, 
+conflict, disillusion, trauma, serious misunderstandings, 
+tears
 000
 s3r
-3 of swords reversed
+Three of Swords Reversed
+
+Releasing pain, overcoming depression, optimism, 
+forgiveness, overcoming grief/ sorrow/ sadness, 
+recovering from heartbreak, reconciliation, 
+compromise, sharing problems, getting over the worst, 
+repressing emotions, inability to let go of pain, 
+suppressing memories, refusing to let go of emotions
 000
 s4u
-4 of swords upright
+Four of Swords Upright 
+
+Fear, anxiety, stress, feeling overwhelmed, 
+mental overload, needing solitude, relaxation, 
+rest, peace and quiet, sanctuary, meditation, 
+regrouping, recuperation, hospitalisation, 
+introspection, planning for the future, contemplation, 
+self-protection, spiritual counselling or support, 
+having faith
 000
 s4r
-4 of swords reversed
+Four of Swords Reversed
+
+Finding mental strength, awakening, re-joining the world, 
+coming out of isolation, recovering slowly, 
+healing, mental breakdown/ collapse, burn-out, 
+restlessness, not taking care of yourself, 
+lack of self-protection, not accepting counselling or support, 
+losing faith
 000
 s5u
-5 of swords upright
+Five of Swords Upright
+
+Defeat, surrender, change, walking away, 
+self-sacrifice, self-sabotaging behaviour, 
+underhanded behaviour, deception, 
+lack of communication, aggression, bullying, 
+intimidation, abuse, violence, crime, rape, murder, 
+assault, standing up for yourself, victory, fighting back, 
+overcoming challenges, serious conflict, hostility, stress
 000
 s5r
-6 of swords reversed
+Five of Swords Reversed 
+
+Peaceful resolution, moving on, compromise, 
+communication, ending conflict, releasing stress,
+ overcoming challenge, major sacrifice, risk everything,
+ relentless, revenge, escalating violence, held accountable, 
+ arrest, uncovered crime, regret, remorse, humiliation, 
+ shame, not heeding warnings , surrendering to challenges
 000
 s6u
-6 of swords upright
+Six of Swords Upright 
+
+Calmer waters, healing, progress, moving on, 
+moving forward, things calming down, calm after a storm,
+overcoming hardship, relief, stability, escaping, 
+running away, journeys, travelling, travel overseas, 
+going on holiday, feeling deflated, lethargy, 
+holding onto negativity, spirit guides, guidance,
 000
 s6r
-6 of swords reversed
-000
-s7r
-7 of swords reversed
+Six of Swords Reversed 
+
+Trouble coming, out of frying pan into fire, 
+lack of progress, slow healing, trapped, delay, 
+stuck, overwhelmed, causing trouble, rocking the boat, 
+changing/ abandoned plans, standing your ground, 
+nowhere to run, stormy relationships, instability, 
+disrupted/cancelled travel, return from travel, eloping, 
+floods, accidents in the water
 000
 s7u
-7 of swords upright
+Seven of Swords Upright 
+
+Deceit, lies, trickery, cheating, theft, 
+underhanded, scheming, dangerous/risky behaviour, 
+enemy masquerading as friend, spying, lack of conscience, 
+strategy, resourceful, flexible, escaping detection, 
+getting away with it, adaptable, courage, daring, 
+sharp wit, mental manipulation, cunning, overly rational
 000
-s8r
-8 of swords reversed
+s7r
+Seven of Swords Reversed 
+
+Confessing, coming clean, turning over new leaf, 
+conscience kicking in, ignoring warnings, 
+pathological liar, serial cheat, slander, 
+dangerously two-faced, malicious, con artist, 
+blackmail, unworkable strategy, being outsmarted, 
+getting caught, running away from consequences, 
+coward, no backbone, stealing credit, military
 000
 s8u
-8 of swords upright
+Eight of Swords Upright
+
+Feeling trapped, restricted, backed into a corner, 
+hands tied, victimised, paralysed by fear/terror, 
+anxiety, feeling pressure, hopeless, helpless, 
+powerless, silenced, crisis, dilemma, drama, 
+imprisonment, punishment, slavery, persecution, 
+judgement, trial by jury, consequences, 
+negative attitudes, psychological issues, 
+major weight-loss
 000
-s9r
-9 of swords reversed
+s8r
+Eight of Swords Reversed
+
+Escape, freedom, release , finding solutions/ options, 
+relief, taking control, standing up to abuse, 
+self-belief, survivor, facing fears/ truth, 
+releasing anxiety, hopeful, empowered, healing, 
+mental strength, clear mind, overcome obstacles, 
+prison release, end of punishment, severe depression, 
+paralysis, oppression, surrender
 000
 s9u
-9 of swords upright
+Nine of Swords Upright 
+
+Fear, anxiety, terror, negativity, 
+deep unhappiness, stress, burden, overwhelmed, 
+at breaking point, inability to cope or face life, 
+mental anguish, guilt, regret, remorse, 
+focusing on past, subject of gossip, isolation, 
+making mountains out of molehills, joylessness, 
+despair, nightmares, insomnia, hormonal, 
+menopause, migraines
+000
+s9r
+Nine of Swords Reversed 
+
+Light at end of tunnel, recovering, 
+improving, letting go of negativity/stress, 
+learning to cope, facing life, opening up,
+accepting help, extreme guilt/regret/ remorse/shame, 
+scandal/malicious gossip, night terror, 
+total collapse/breakdown, hallucinations, 
+giving up, depression/ problems/fears escalating, 
+self-pity/loathing 
+000
+s10u
+Ten of Swords Upright
+
+Backstabbing, betrayal, enemies, bitching, 
+badmouthing, bitterness, doormat,
+failure, ruin, collapse/breakdown, 
+exhaustion, inability to cope, curses, 
+rock bottom, hitting a wall, dead end,
+severing ties, goodbyes, nail in the coffin, 
+exaggeration, overly dramatic, martyr, 
+attention seeker, playing victim, attack, violence
 000
 s10r
-10 of swords reversed
-000
-s10u 
-10 of swords upright
+Ten of Swords Reversed
+
+Rising above problems/haters/bitchiness, 
+over the worst, surviving disaster, being saved, 
+things getting better, NDEs / OBEs, escaping ruin,
+pulling yourself together,  learning from past hardships, 
+fears coming true, being beyond help, worst is yet to come, 
+despair, total ruin, relapse, problems coming back,  
 000
 spu
-page of swords upright
+Page of Swords Upright
+
+Delayed news, patience needed, ideas, 
+inspiration, planning, vigilance, protective, 
+guarded, fairness, think before you speak, 
+don’t get drawn into arguments, mental agility, 
+using your head,  inquisitive, curious,
+quick-witted, chatty, communicative, 
+education, petty gossip, being truthful/ direct, 
+speaking out, fighting injustice,
 000
 spr
-page of swords reversed
+Page of Swords Reversed 
+
+Bad/disappointing news, lack of ideas/planning, 
+defensive, player, mind games, paranoid, 
+lack of mental agility, having your head in the clouds, 
+scatterbrain, dim-witted,  nothing to say, 
+cold, sarcastic, cynical, malicious gossip, 
+being blunt/ abrasive, not speaking out, delinquent, 
+lack of education/ learning difficulties 
 000
 sju
-knight of swords upright
+Knight of Swords Upright
+
+Big changes/ opportunities, seize the moment, 
+jump in, arrival/departure, assertive, direct, 
+honest, quick-wit, talkative, impatient, impulsive, 
+intellectual, daring, rebellious, brave, courageous, 
+focused, single-minded, perfectionist, ambitious, 
+risk-taker, forward-thinking, champion, hero, soldier, 
+go against the flow, leader
 000
 sjr
-knight of swords reversed
+Knight of Swords Reversed
+
+Missed opportunities, out of your depth, 
+out of control, left behind, rude, tactless, 
+hurtful, sarcastic, insincere, forceful, bully, 
+aggressive, vicious, dangerous, know it all, follower, 
+go with the flow, unfocused, coward, criminal, 
+self-obsessed, arrogant, leading others to danger, 
+heading for a fall, inferiority complex
 000
 squ
-queen of swords upright
+Queen of Swords Upright 
+
+Honest, truthful, candid, protective,
+independent, chatty, communicative, witty, funny, 
+principled, fair, constructive criticism, strong, 
+quirky, realistic, objective, discerning, problem solver, 
+sceptical, intelligent, sharp wit, self-reliant,
+open-minded, sophisticated, mother,
+repressed pain or sadness, divorced, 
+hard knocks 
 000
 sqr
-queen of swords reversed
+Queen of Swords Reversed
+
+Overly critical, pessimistic, lack of empathy,
+rude, malicious gossip, manipulative,
+harsh, bitter, spiteful, vindictive,
+nasty, cruel, deceitful, cheater,
+unforgiving, scatter-brain, mental fogginess,
+poor communication, dysfunctional,
+obsessive, dependant, not learning from past,
+absent mother, repressed trauma, infertile 
 000
 sku
-king of swords upright
+King of Swords Upright
+
+Structure, routine, intelligent, rational,
+logical, power, authority, strength,
+manners, conversation, discerning, 
+detached, cool, honesty, integrity, ethics, 
+morals, clinical, stern, methodical, 
+elf-discipline, head over heart, use your head, 
+military, law enforcement, legal matters,
+judge, father
 000
 skr
-king of swords reversed
+King of Swords Reversed 
+
+Lack of structure/routine, 
+intelligence used in a bad way, irrational, 
+illogical, power-crazed, dictator, oppressive, 
+inhumane, aggressive, brutal, violent, intimidation, 
+controlling, cynical, cold, ruthless, weak, 
+powerless, rude, dishonest, 
+lack of integrity/morals/discipline, 
+losing your head, judgemental, absent father 
 000
 m0u
-The Fool upright
+The Fool Upright 
+
+Innocence, freedom, originality, adventure, travel,
+foolishness, carelessness, idealism, youth, spontaneity,
+lack of commitment, new beginnings
 000
 m0r
-The Fool reversed
+The Fool Reversed
+
+Recklessness, carelessness, negligence,
+stupidity, distraction, apathy, irrationality,
+lack of fun, hope or faith
 000
 m1u
-The Magician upright
+The Magician Upright
+
+Power, influence, willpower, resourcefulness,
+skill, ability, logic, intellect,
+concentration and psychic powers
 000
 m1r
-The Magician reversed
+The Magician Reversed
+
+Manipulation, greed, unused ability,
+untrustworthiness, trickery, conniving,
+cunning, lack of mental clarity
 000
 m2u
 000
-The High Priestess upright
-m2r
+The High Priestess Upright
+
+Desirability, unattainability, 
+mystery, sensuality, spirituality, 
+thirst for knowledge, mystery, 
+subconscious, higher power, 
+creativity, fertility
 000
-The High Priestess reversed
+m2r
+The High Priestess Reversed
+
+Repression of intuition, blocked psychic powers, 
+unwanted attention, 
+uncontrolled outbursts and sexual tension, 
+lack of self-belief, fertility issues
 000
 m3u
-The Empress upright
+The Empress Upright
+
+Pregnancy, fertility, motherhood, sensuality, 
+nurturing, creativity, beauty, femininity, 
+nature, harmony, art
 000
 m3r
-The Empress reversed
+The Empress Reversed
+
+
+Reversed Meaning Guide
+
+Insecurity, infertility, lack of confidence,
+lack of growth, overbearing tendencies,
+disharmony, negligence,
 000
 m4u
-The Emperor upright
+The Emperor Upright
+
+Older man, stability, dependability, 
+fatherhood, father-figure, structure, 
+protectiveness, authority, logical, practical
 000
 m4r
-The Emperor reversed
+The Emperor Reversed
+
+Abuse of power, excessively controlling, 
+Rigidity, stubbornness, lack of discipline, 
+lack of control, absentee father, paternity issues
 000
 m5u
-The Hierophant upright
+The Hierophant Upright
+
+Traditional institutions, traditional values, 
+conventional, conformity, marriage, commitment, 
+religion, beliefs, knowledge sharing
 000
 m5r
-The Hierophant reversed
+The Hierophant Reversed
+
+Challenging tradition, unconventional lifestyles, 
+unconventional relationships, 
+reversed roles, non-conformity
 000
 m6u
-The Lovers upright
+The Lovers Upright
+
+Love, soulmates, kindred spirits, 
+perfect unions, partnerships, relationships, 
+major choices, romance, desire, sexual connections, 
+shared values
 000
 m6r
-The Lovers reversed
-000
-m7r
-The Chariot reversed
+The Lovers Reversed
+
+Disharmony, trust issues, imbalance, 
+conflict, disconnection, lack of accountability, 
+disunion, detachment
 000
 m7u
-The Chariot upright
+The Chariot Upright
+
+Disharmony, trust issues, imbalance,
+conflict, disconnection, 
+lack of accountability, 
+disunion, detachment
 000
-m8r
-Strength reversed 
+m7r
+The Chariot Reversed
+
+Forcefulness, lack of direction, 
+lack of self-control, powerlessness, 
+aggression, coercion, being blocked by obstacles
 000
 m8u
-Strength upright
+Strength Upright
+
+Inner strength, courage, bravery,
+confidence, compassion, taming,
+control, overcoming self-doubt
 000
-m9r
-The Hermit reversed
+m8r
+Strength Reversed
+
+Vulnerability, self-doubt, weakness,
+low self-esteem, lack of confidence,
+feeling inadequate
 000
 m9u
-The Hermit upright
+The Hermit Upright
+
+Spiritual enlightenment, soul searching, 
+self-reflection, introspection, 
+contemplation, inner guidance, solitude
 000
-m10r
-Wheel of Fortune reversed
+m9r
+The Hermit Reversed 
+
+Loneliness, paranoia, isolation, bring reclusive,
+withdrawal, anti-social, 
+restrictive, paralysed by fear.
 000
 m10u
-Wheel of Fortune upright
+Wheel of Fortune Upright
+
+Good luck, destiny, change, karma, 
+soulmates, decisive moments, cycles of life, 
+fate, fortune, upheaval, chance
+000
+m10r
+Wheel of Fortune Reversed
+
+Bad luck, upheaval, disorder, external forces, 
+lack of control, disruption, unwelcome change, 
+delays, set backs
 000
 m11u
-Justice upright
+Justice Upright
+
+Justice, karmic justice, consequences,
+legal disputes, law, truth, honesty, 
+integrity, cause and effect, life lessons
 000
 m11r
-Justice reversed 
+Justice Reversed 
+
+Injustice, karmic retribution, dishonesty, 
+corruption, lack of accountability, 
+dishonesty, unfairness, karmic avoidance 
 000
 m12u
-The Hanged Man upright
+The Hanged Man Upright
+
+Feeling trapped, confined, self-limiting,
+uncertainty, lack of direction,
+needing release, letting go
 000
 m12r
-The Hanged Man reversed
+The Hanged Man Reversed
+
+Discontentment, apathy, disinterest, 
+stagnation, impulsiveness, 
+negative patterns, detachment
 000
 m13u
-Death upright
+Death Upright
+
+Spiritual transformation, new beginnings, 
+letting go, endings, change, transition, 
+sudden or unexpected upheava
 000
 m13r
-Death reversed
+Death Reversed
+
+Inability to move forward, fear of beginnings, 
+repeating negative patterns, resisting change, 
+dependency
 000
 m14u
-Temperance upright
+Temperance Upright
+
+Balance, peace, patience, moderation, 
+inner calm, perspective, tranquillity, 
+harmonious relationships, soulmates 
 000
 m14r
-Temperance reversed
+Temperance Reversed
+
+Imbalance, self-indulgence, excess,
+clashing, lack of perspective, discord, 
+antagonism, recklessness, hastiness
 000
 m15u
-The Devil upright
+The Devil Upright
+
+Addiction, depression, mental health issues, 
+secrecy, obsession, cheating, dependency, 
+bondage, materialism, sexuality, 
+powerlessness, hopelessness, abuse, 
+violence, assault
 000
 m15r
 The Devil reversed
+
+Detachment, independence, overcoming addiction,
+freedom, revelation, reclaiming power,
+reasserting control 
 000
 m16u
-The Tower upright
+The Tower Upright
+
+Chaos, destruction, sudden upheaval, trauma,
+unexpected change, disaster, loss, tragedy,
+revelations, confusion, pain, divorce, abuse, 
+violence, bankruptcy, natural disasters
 000
 m16r
 The Tower reversed
+
+Resisting change, averting disaster,
+avoiding tragedy, delaying the inevitable,
+avoiding loss
 000
 m17u
-The Star upright
+The Star Upright
+
+Hope, inspiration, creativity, calm,
+contentment, renewal, serenity,
+spirituality, healing, positivity
 000
 m17r
-The Star reversed
+The Star Reversed
+
+Hopelessness, despair, focusing on the negative,
+lack of faith, lack of inspiration,
+lack of creativity, boredom, monotony
 000
 m18u
-The Moon upright
+The Moon Upright
+
+Intuition, illusion, dreams, vagueness,
+instability, deception, anxiety, fear, 
+misconception, subconscious, insecurity
 000
 m18r
-The Moon reversed
+The Moon Reversed
+
+Releasing fear, unveiling secrets,
+subsiding anxiety,
+truth, regaining composure, 
+self-deception, blocked intuition
 000
 m19u
-The Sun upright
+The Sun Upright
+
+Positivity, freedom, fun, success,
+optimism, vitality, joy, confidence, 
+self-expression, good luck, enthusiasm, 
+happiness, truth, openness, pregnancy
 000
 m19r
-The Sun reversed
+The Sun Reversed
+
+Lack of enthusiasm, excessive enthusiasm,
+sadness, pessimism, unrealistic expectations, 
+ego, conceitedness, oppression, 
+miscarriage, stillbirth, abortion
 000
 m20u
-Judgement upright
+Judgement Upright
+
+Judgement, self-evaluation, awakening, 
+renewal, composure, decisiveness, homesickness, 
+snap judgements, apportioning blame, forgiveness
 000
 m20r
-Judgement reversed
+Judgement Reversed
+
+Indecisiveness, self-doubt, 
+malicious gossip, lack of self-awareness, 
+unwillingness to learn karmic lessons, 
+unfair blame, false accusations
 000
 m21u
-The World upright
+The World Upright
+
+Success, achievement, accomplishment, 
+travel, completion, fulfilment, 
+sense of belonging, wholeness
 000
 m21r
-The World reversed
+The World Reversed
+
+Lack of success, stagnation, 
+lack of achievement, disappointment, 
+burden, lack of completion
 000
 end
