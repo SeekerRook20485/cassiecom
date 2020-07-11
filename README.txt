@@ -10,14 +10,14 @@ Here are some useful tips :
 4. You can customise the card details in the data.txt but you must always do this with caution.
    If you are not 100% sure how to do it you should NEVER try ar else the app may not work.
 5. The controls are pretty straightforward but can be a little challenging to master.
-   you can always type help while runing the program or open the help file.
+   you can always type help while runing the program or open the HELP.txt file.
 
 Thats all!
 
 Have fun !!
 
 
-
+NOTE : Details for Normal & Love Spreads are not yet available but you can still explore the related commands.
 
 
 
